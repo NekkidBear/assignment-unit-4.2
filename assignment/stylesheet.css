@@ -16,6 +16,19 @@ div {
     margin: auto;
 }
 
+
+body a.link{
+    color: #fffd82;
+}
+
+div { 
+    width: 50%;
+    border:#6d5959;
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+}
+
 header {
     background-color: #6d5959;
     color: #ffc0cb;
@@ -28,4 +41,13 @@ h2, h3{
 
 img {
     max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+.mocha {
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }
