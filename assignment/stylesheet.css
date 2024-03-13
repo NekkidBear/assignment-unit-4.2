@@ -1,8 +1,17 @@
-header {
-    background-color: #93bea4;
+body {
+    background-color: #bdedff;
     color: black;
+    text-align: center;
+}
+header {
+    background-color: #6d5959;
+    color: #ffc0cb;
 }
 h2 {
-    background-color: #c2a0e8;
-    color: #b2d4ab;
+    background-color: #1b998b;
+    color: #fffd82;
+}
+h3 {
+    background-color: #1b998b;
+    color: #fffd82;
 }
