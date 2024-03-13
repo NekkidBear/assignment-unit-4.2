@@ -3,15 +3,29 @@ body {
     color: black;
     text-align: center;
 }
+
+body a.link{
+    color: #fffd82;
+}
+
+div { 
+    width: 50%;
+    border:#6d5959;
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+}
+
 header {
     background-color: #6d5959;
     color: #ffc0cb;
 }
-h2 {
-    background-color: #1b998b;
-    color: #fffd82;
+
+h2, h3{
+    background-color: #3C787E;
+    color: #F9E784;
 }
-h3 {
-    background-color: #1b998b;
-    color: #fffd82;
+
+img {
+    max-width: 100%;
 }
